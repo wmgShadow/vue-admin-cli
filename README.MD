@@ -14,7 +14,7 @@
 	├─common   		//公共资源
 	│  ├─images
 	│  ├─js
-	│  └─scss
+	│  └─less
 	├─components    //组件目录
 	│  └─home       //组件资源
 	│      │  index.vue
@@ -27,7 +27,6 @@
 	│      index.html  //入口html，名称与entry目录相对应（多入口应用）
 	├─router           //vue-router 路由目录
 	│      index.js
-	├─static          //静态资源
 	├─store           //vuex 状态管理目录
 	│      index.js
 	└─utils           //工具类
